@@ -2,6 +2,8 @@
 
 A backend assignment implementation that accepts a bulk list of recipients, generates certificates from one predefined template, tracks job progress, isolates individual failures, and exposes generated certificates for retrieval.
 
+Certificates are generated using one predefined certificate template.
+
 ## Assignment coverage
 
 - Python + FastAPI
