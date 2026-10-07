@@ -1,0 +1,14 @@
+{
+  "recipients": [
+    {
+      "name": "Kundan Kumar",
+      "email": "kundan@example.com",
+      "course_name": "Backend Engineering"
+    },
+    {
+      "name": "Aman Sharma",
+      "email": "aman@example.com",
+      "course_name": "Backend Engineering"
+    }
+  ]
+}
